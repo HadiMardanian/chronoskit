@@ -42,7 +42,7 @@ toDateTimePersian('2025-05-13')
 
 // Persian + Farsi locale (output is still numeric, but culturally formatted)
 toDateTimePersianFa(Date.now())
-// => "1404-02-23T12:45:00"
+// => "۱۴۰۴-۰۲-۲۳T۱۶:۳۰:۵۱"
 ```
 
 ---
